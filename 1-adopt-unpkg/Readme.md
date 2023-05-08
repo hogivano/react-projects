@@ -1,0 +1,3 @@
+- Create component always use React.createElement
+- From React v10 we can unuse directly Reac.createElement
+- JSX will doing to React.createElement you dont worries about that when using JSX
